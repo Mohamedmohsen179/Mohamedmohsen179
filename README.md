@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **C++,C#**
+- 💬 Ask me about **How To Secure Yourself**
 
 - 📫 How to reach me **Mohamedmohsen.Fci@gmail.com**
 
