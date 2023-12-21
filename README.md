@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **l'm Mohamed Mohsen Ali, student in Faculty of Computers and Information, Kafr El-Sheikh university**
+- 💬 Ask me about **C++,C#**
 
 - 📫 How to reach me **Mohamedmohsen.Fci@gmail.com**
 
