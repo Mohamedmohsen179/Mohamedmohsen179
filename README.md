@@ -22,15 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammed mohsen" height="30" width="40" /></a>
-
 <a href="https://x.com/memo_FCI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memo_FCI" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/mohamedmohsen179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Mohsen" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mohamed Mohsen" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/mohamedmohsen179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
 </p>
 
