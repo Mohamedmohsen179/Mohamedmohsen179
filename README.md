@@ -1,26 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJyNXVwcXVocHdkNmVhaDVkMzVna3Zuc3plZms5amRwam1rc21oYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohsen179&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohsen179" /> </p>
 
-<p align="left"> <a href="https://twitter.com/memo_fci" target="blank"><img src="https://img.shields.io/twitter/follow/memo_fci?logo=twitter&style=for-the-badge" alt="memo_fci" /></a> </p>
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code.&pause=1000&color=00F754&center=true&width=435&lines=Hello+I'm+Mohamed+Mohsen;Cybersecurity+Engineer" alt="Typing SVG" /></a>
+</p> 
 
-- 💬 Ask me about **How To Secure Yourself**
+- 🏢 I'm a Software Engineer 
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills
+- 💬 Problem Solving Coach @ ACPC kafrelsheikh Club
+- 💬 Chairman @IEEE KSB
+- 💬 Huawei Cloud Ambassador
+- 🧑‍🎓 Student Union President
 
-- 📫 How to reach me **Mohamedmohsen.Fci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/memo_fci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memo_fci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-mohsen-136bbb293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mohsen-136bbb293" height="30" width="40" /></a>
-<a href="https://fb.com/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammed mohsen" height="30" width="40" /></a>
+
+<a href="https://x.com/memo_FCI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memo_FCI" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/mohamedmohsen179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Mohsen" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/@mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mohamed Mohsen" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/mohamedmohsen179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
+
+<a href="https://codeforces.com/profile/mohamedmohsen179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedmohsen179" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=C)&nbsp;
+![CSharp](https://img.shields.io/badge/-%20-05122A?style=flat&logo=Csharp)&nbsp;
+![C++](https://img.shields.io/badge/-%20-05122A?style=flat&logo=Cplusplus)&nbsp;
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedmohsen179&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=Mohamedmohsen179&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Mohamedmohsen179&style=for-the-badge">
+</a>
